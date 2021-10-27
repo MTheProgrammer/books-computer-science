@@ -5,6 +5,9 @@ Books and articles for exploring computer science
 https://ferd.ca/the-zen-of-erlang.html
 http://blog.cretaria.com/posts/erlang-beauty.html
 
+## Elixir
+https://elixirschool.com/en/
+
 ## Jim Gray
 https://scholar.google.com/citations?user=Dn4kkYUAAAAJ&hl=en
 
