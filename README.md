@@ -7,6 +7,7 @@ http://blog.cretaria.com/posts/erlang-beauty.html
 
 ## Elixir
 https://elixirschool.com/en/
+https://blog.miguelcoba.com/100-elixir-tips-ebook
 
 ## Jim Gray
 https://scholar.google.com/citations?user=Dn4kkYUAAAAJ&hl=en
