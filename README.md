@@ -17,3 +17,6 @@ https://use-the-index-luke.com/sql/partial-results/fetch-next-page
 
 ## Architecture
 https://martinfowler.com/bliki/CQRS.html
+
+## Security
+- https://www.crypto101.io/
