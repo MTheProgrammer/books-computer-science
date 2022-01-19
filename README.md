@@ -20,3 +20,4 @@ https://martinfowler.com/bliki/CQRS.html
 
 ## Security
 - https://www.crypto101.io/
+- https://www.blackhat.com/docs/us-16/materials/us-16-VanGoethem-HEIST-HTTP-Encrypted-Information-Can-Be-Stolen-Through-TCP-Windows-wp.pdf
