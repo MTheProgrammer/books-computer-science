@@ -4,6 +4,9 @@ Books and articles for exploring computer science
 ## Architecture
 - https://martinfowler.com/bliki/CQRS.html
 
+## Authentication and Authorization
+- https://redis.com/blog/json-web-tokens-jwt-are-dangerous-for-user-sessions/
+
 ## CSS
 - http://www.csszengarden.com/
 
