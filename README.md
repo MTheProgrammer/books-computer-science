@@ -3,6 +3,10 @@ Books and articles for exploring computer science
 
 ## Architecture
 - https://martinfowler.com/bliki/CQRS.html
+- https://www.nasa.gov/connect/ebooks/nasa-systems-engineering-handbook
+
+## Artificial Intelligence
+- https://www.goodreads.com/book/show/153954.The_Human_Use_of_Human_Beings
 
 ## Authentication and Authorization
 - https://redis.com/blog/json-web-tokens-jwt-are-dangerous-for-user-sessions/
