@@ -11,6 +11,9 @@ Books and articles for exploring computer science
 ## Authentication and Authorization
 - https://redis.com/blog/json-web-tokens-jwt-are-dangerous-for-user-sessions/
 
+## Bash
+- https://www.baeldung.com/linux/testing-bash-scripts-bats
+
 ## CSS
 - http://www.csszengarden.com/
 
