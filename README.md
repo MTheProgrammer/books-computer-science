@@ -19,6 +19,7 @@ Books and articles for exploring computer science
 
 ## Databases
 - https://use-the-index-luke.com/sql/partial-results/fetch-next-page
+- https://www.clever-cloud.com/blog/engineering/2015/05/20/why-auto-increment-is-a-terrible-idea/
 
 ## Elixir
 - https://elixirschool.com/en/
