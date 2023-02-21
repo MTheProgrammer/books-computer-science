@@ -16,6 +16,7 @@ Books and articles for exploring computer science
 
 ## CSS
 - http://www.csszengarden.com/
+- https://www.joshwcomeau.com/css/make-beautiful-gradients/
 
 ## Databases
 - https://use-the-index-luke.com/sql/partial-results/fetch-next-page
