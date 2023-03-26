@@ -25,6 +25,7 @@ Books and articles for exploring computer science
 ## Elixir
 - https://elixirschool.com/en/
 - https://blog.miguelcoba.com/100-elixir-tips-ebook
+- https://pragmaticstudio.com/phoenix-liveview
 
 ## Erlang
 - https://ferd.ca/the-zen-of-erlang.html
