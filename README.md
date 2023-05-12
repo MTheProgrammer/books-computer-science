@@ -1,4 +1,4 @@
-# Books of computer science
+# Books about computer science
 Books and articles for exploring computer science
 
 ## Architecture
@@ -26,6 +26,8 @@ Books and articles for exploring computer science
 - https://elixirschool.com/en/
 - https://blog.miguelcoba.com/100-elixir-tips-ebook
 - https://pragmaticstudio.com/phoenix-liveview
+- https://paraxial.io/blog/data-race
+- https://lakret.net/blog/2023-05-08-elixir-vs-microservices
 
 ## Erlang
 - https://ferd.ca/the-zen-of-erlang.html
