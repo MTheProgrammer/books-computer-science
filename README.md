@@ -9,6 +9,7 @@ Books and articles for exploring computer science
 
 ## Artificial Intelligence
 - https://www.goodreads.com/book/show/153954.The_Human_Use_of_Human_Beings
+- https://research.nvidia.com/labs/toronto-ai/flexicubes/
 
 ## Authentication and Authorization
 - https://redis.com/blog/json-web-tokens-jwt-are-dangerous-for-user-sessions/
