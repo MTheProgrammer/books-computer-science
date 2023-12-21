@@ -45,6 +45,7 @@ Books and articles for exploring computer science
 ## PHP
 - http://phpsadness.com/
 - https://snuffleupagus.readthedocs.io/
+- https://phptherightway.com/
 
 ## Security
 - https://www.crypto101.io/
