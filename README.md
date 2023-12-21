@@ -42,6 +42,10 @@ Books and articles for exploring computer science
 ## Programming languages
 - http://www.paulgraham.com/icad.html
 
+## PHP
+- http://phpsadness.com/
+- https://snuffleupagus.readthedocs.io/
+
 ## Security
 - https://www.crypto101.io/
 - https://www.blackhat.com/docs/us-16/materials/us-16-VanGoethem-HEIST-HTTP-Encrypted-Information-Can-Be-Stolen-Through-TCP-Windows-wp.pdf
