@@ -2,6 +2,7 @@
 Books and articles for exploring computer science
 
 ## Architecture
+- https://www.lysator.liu.se/c/pikestyle.html
 - https://martinfowler.com/bliki/CQRS.html
 - https://www.nasa.gov/connect/ebooks/nasa-systems-engineering-handbook
 - https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html
