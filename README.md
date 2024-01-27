@@ -49,6 +49,7 @@ Books and articles for exploring computer science
 - https://phptherightway.com/
 
 ## Security
+- https://cheatsheetseries.owasp.org/
 - https://www.crypto101.io/
 - https://www.blackhat.com/docs/us-16/materials/us-16-VanGoethem-HEIST-HTTP-Encrypted-Information-Can-Be-Stolen-Through-TCP-Windows-wp.pdf
 
