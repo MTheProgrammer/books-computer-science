@@ -47,6 +47,7 @@ Books and articles for exploring computer science
 - http://phpsadness.com/
 - https://snuffleupagus.readthedocs.io/
 - https://phptherightway.com/
+- https://tomasvotruba.com/blog/2019/03/04/how-to-turn-laravel-from-static-to-dependency-injection-in-one-day/
 
 ## Security
 - https://cheatsheetseries.owasp.org/
