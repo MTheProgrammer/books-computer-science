@@ -56,3 +56,6 @@ Books and articles for exploring computer science
 
 ## Tools and services
 https://free-for.dev/
+
+## Types
+- https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/
