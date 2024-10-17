@@ -7,6 +7,7 @@ Books and articles for exploring computer science
 - https://www.nasa.gov/connect/ebooks/nasa-systems-engineering-handbook
 - https://renegadeotter.com/2023/09/10/death-by-a-thousand-microservices.html
 - https://world.hey.com/dhh/we-tried-that-didn-t-work-d9c42fe1
+- https://daedtech.com/inverting-control/
 
 ## Artificial Intelligence
 - https://www.goodreads.com/book/show/153954.The_Human_Use_of_Human_Beings
