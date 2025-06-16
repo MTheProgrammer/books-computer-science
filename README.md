@@ -41,7 +41,7 @@ Books and articles for exploring computer science
 ## Jim Gray
 - https://scholar.google.com/citations?user=Dn4kkYUAAAAJ&hl=en
 
-## Programming languages
+## Programming languages in general
 - http://www.paulgraham.com/icad.html
 
 ## PHP
@@ -60,3 +60,6 @@ https://free-for.dev/
 
 ## Types
 - https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/
+
+## YAML
+- https://yaml.org/spec/1.2-old/spec.html#id2765878
