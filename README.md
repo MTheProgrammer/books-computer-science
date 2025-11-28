@@ -1,6 +1,9 @@
 # Books about computer science
 Books and articles for exploring computer science
 
+## API
+- https://htmx.org/essays/how-did-rest-come-to-mean-the-opposite-of-rest/
+
 ## Architecture
 - https://www.lysator.liu.se/c/pikestyle.html
 - https://martinfowler.com/bliki/CQRS.html
